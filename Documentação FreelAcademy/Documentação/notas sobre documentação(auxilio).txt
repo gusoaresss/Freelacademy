@@ -1,0 +1,22 @@
+
+introdução do projeto >  Power point - word 
+
+analise de requisitos funcionais e não funcionais > planilha marcos
+
+diagramas de casos de uso > UML > PLANILHAS
+
+Diagrama de classes > planilhas 
+
+
+banco de dados> planilhas 
+
+
+ Rotinas de Backup e Restore:
+
+· Backup:
+
+o Documento explicando o passo a passo para realizar a rotina de backup dos dados do banco.
+
+· Restore:
+
+o Documento explicando o passo a passo para realizar a rotina de restore dos dados do banco.
